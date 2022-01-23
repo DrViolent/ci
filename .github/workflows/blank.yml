@@ -22,7 +22,7 @@ env:
   device: m11q
   DT_url: https://github.com/DrViolent/android_device_samsung_m11q -b twrp-11
   DT_path: device/samsung/m11q
-  ProductFileHeader: twrp
+  ProductFileHeader: omni
   target: recoveryimage
   WorkSpace: WorkSpace
   TZ: Asia/Shanghai
